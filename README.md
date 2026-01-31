@@ -6,12 +6,10 @@ This repository contains my submission for the **CodTech Internship Task 1: Big 
 
 ## Folder Structure
 
-- Task1_BigData_Analysis/
-  - Big_Data_Analysis_Task1.ipynb  → Notebook for Task 1
-  - data/
-    - ai_impact_student_performance_dataset.csv  → Dataset used in Task 1
-
----
+Task1-Big-Data-Analysis/
+├── data/
+├── notebook/
+└── plots/
 
 ## How to Run
 
@@ -27,5 +25,4 @@ This repository contains my submission for the **CodTech Internship Task 1: Big 
 - AI usage has minimal effect on average final scores.
 - Study hours show very low correlation with final_score.
 - Top correlated features with final_score: last_exam_score, assignment_scores_avg, concept_understanding_score.
-# CodTech_Internship
-CodTech Internship - Big Data &amp; Analytics Tasks
+
